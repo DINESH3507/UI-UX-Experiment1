@@ -16,4 +16,4 @@ Try Design Tools Practice with tools like Figma or Adobe XD to create and test y
 [Exp 1 UIUX (1).pdf](https://github.com/user-attachments/files/23587021/Exp.1.UIUX.1.pdf)
 
 ## Result:
-The aim is completed and verified.
+Through these hands-on experiments, I developed a solid understanding of both UI and UX design principles. By analyzing real-world applications, I learned how good visual design (UI) must be paired with smooth user flows (UX) to create effective digital experiences. Using tools like Figma and Adobe XD, I created wireframes and prototypes, which helped me visualize how design decisions impact usability. These activities improved my design thinking, tool proficiency, and ability to evaluate and build better user-centered interfaces.
